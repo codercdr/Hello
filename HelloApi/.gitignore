@@ -1,0 +1,28 @@
+# Ignore Visual Studio temporary files, build results, and AOT files
+.vs/
+bin/
+obj/
+
+# Ignore Rider project files
+.idea/
+
+# Ignore user-specific files
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Ignore the built output
+project.lock.json
+*.db
+
+# Ignore other files
+*.pdb
+*.exe
+*.dll
+*.zip
+*.tar.gz
+*.tgz
+
+# Ignore the publish folder
+publish/
